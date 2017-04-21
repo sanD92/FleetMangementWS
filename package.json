@@ -19,7 +19,10 @@
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-node-kandy-sms":"0.1.1",
-        "node-red-dashboard":"2.3.8"
+        "node-red-dashboard":"2.3.8",
+        "node-red-contrib-web-worldmap":"1.0.24",
+        "node-red-node-google":"0.1.1",
+        
 
     },
     "scripts": {
